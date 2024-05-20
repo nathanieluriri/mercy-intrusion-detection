@@ -1,0 +1,7 @@
+
+[theme]
+primaryColor = "#ff69b4"   # Hot pink
+backgroundColor = "#ffe4e1" #FDEDEB # Misty rose (light pink)
+secondaryBackgroundColor = "#ffb6c1"#F1CFD6  # Light pink
+textColor = "#4E4E4E"  # Purple (complementary to pink)
+font = "serif"
